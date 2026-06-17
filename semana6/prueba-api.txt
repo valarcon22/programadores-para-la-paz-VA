@@ -1,0 +1,22 @@
+Para probar la ruta /registro se envió una petición POST a:
+
+http://localhost:3000/registro
+
+Se utilizó el siguiente JSON:
+
+{
+  "nombre": "Valerin",
+  "mensaje": "Hola comunidad"
+}
+
+El servidor respondió correctamente con los datos recibidos.
+
+La respuesta obtenida fue:
+
+{
+  "estado": "Datos recibidos",
+  "nombre": "Valerin",
+  "mensaje": "Hola comunidad"
+}
+
+Esta prueba demuestra que el servidor Express recibió información en formato JSON y pudo procesarla correctamente mediante req.body.

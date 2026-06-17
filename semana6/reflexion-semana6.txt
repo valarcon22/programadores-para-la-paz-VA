@@ -1,0 +1,8 @@
+Las plataformas tecnológicas no deben entenderse solo como herramientas para recibir datos, sino como medios que pueden fortalecer la participación ciudadana cuando organizan la información de manera clara y verificable.
+Recibir reportes estructurados permite transformar una queja individual en un dato útil para el análisis, el seguimiento y la toma de decisiones.
+El uso de JSON facilita que la información enviada por los ciudadanos tenga campos definidos, como tipo de reporte, descripción y datos relevantes.
+Esto reduce la improvisación, evita confusiones y permite que las instituciones respondan con mayor precisión.
+Sin embargo, también exige responsabilidad en el manejo de la información, especialmente cuando se trata de situaciones comunitarias sensibles.
+Una plataforma no solo debe recibir datos, también debe proteger la privacidad, garantizar transparencia y permitir trazabilidad del proceso.
+En este sentido, Express y req.body muestran cómo desde la programación se puede construir una ruta básica para escuchar y procesar la voz de la ciudadanía.
+Por eso, esta práctica evidencia que la tecnología puede contribuir al control social, siempre que se use con criterios éticos, organización y responsabilidad pública.
