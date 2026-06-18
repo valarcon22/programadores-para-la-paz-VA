@@ -1,0 +1,8 @@
+Es importante que las comunidades puedan registrar y consultar reportes en una plataforma tecnológica porque esto permite organizar problemas colectivos de manera más clara y verificable.
+Un reporte comunitario no debe quedar solamente en una conversación informal, sino convertirse en información estructurada que pueda ser revisada y atendida.
+Cuando una API permite registrar datos mediante POST y consultarlos mediante GET, facilita el seguimiento de las situaciones reportadas.
+Además, el uso de arrays permite comprender cómo la información puede almacenarse temporalmente mientras el servidor está activo.
+Este tipo de herramientas fortalece la participación ciudadana porque convierte las necesidades de la comunidad en registros visibles.
+También mejora la transparencia, ya que permite consultar qué reportes han sido ingresados y cómo se organizan.
+Sin embargo, el registro de información debe hacerse con responsabilidad, evitando exponer datos personales o sensibles.
+Por eso, una plataforma comunitaria debe combinar participación, trazabilidad, privacidad y uso ético de la información.

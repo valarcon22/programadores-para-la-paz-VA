@@ -1,0 +1,20 @@
+Al probar la ruta POST /reportes, el servidor permitió registrar reportes comunitarios en memoria usando un array.
+
+Luego, al consultar la ruta GET /reportes, el servidor devolvió la lista de reportes registrados.
+
+La respuesta obtenida fue:
+
+[
+  {
+    "id": 1,
+    "tipo": "Infraestructura",
+    "descripcion": "Daño en alumbrado público"
+  },
+  {
+    "id": 2,
+    "tipo": "Ambiente",
+    "descripcion": "Acumulación de residuos en una zona comunitaria"
+  }
+]
+
+Esto demuestra que la API permite registrar información con POST y consultarla con GET mientras el servidor está encendido.
