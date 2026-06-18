@@ -1,0 +1,8 @@
+La estabilidad y seguridad de un servidor son condiciones esenciales para que una plataforma comunitaria pueda sostener procesos participativos reales.
+Una aplicación no solo debe funcionar en pruebas, sino responder de manera confiable cuando la comunidad necesita consultar, reportar o comunicarse.
+Si el servidor falla, no se interrumpe únicamente un servicio técnico, también se afecta la confianza colectiva en la plataforma.
+La seguridad permite proteger datos, credenciales, registros y comunicaciones frente a accesos indebidos o pérdidas de información.
+Por eso, administrar un servidor exige monitoreo, revisión de logs, control de permisos, actualizaciones y copias de seguridad.
+Estas prácticas reducen riesgos operativos y permiten identificar fallas antes de que se conviertan en problemas mayores.
+En una plataforma participativa, la continuidad del servicio también tiene una dimensión ética, porque protege la voz y la información de la comunidad.
+Así, un servidor estable y seguro no es solo infraestructura tecnológica, sino una base de confianza, legitimidad y responsabilidad digital.
