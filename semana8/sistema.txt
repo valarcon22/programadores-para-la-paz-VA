@@ -1,5 +1,5 @@
-El comando uname -a muestra información detallada del sistema operativo, como el nombre del sistema, la versión del kernel, la arquitectura y otros datos técnicos.
+El comando uname -a muestra información detallada del sistema operativo, como el nombre del sistema, la versión del kernel, la arquitectura y otros datos técnicos.Linux codespaces-ff8da9 6.8.0-1052-azure #58~22.04.1-Ubuntu SMP Thu Mar 26 05:02:21 UTC 2026 x86_64 x86_64 x86_64 GNU/Linux
 
-El comando whoami muestra el nombre del usuario que está utilizando el sistema.
+El comando whoami muestra el nombre del usuario que está utilizando el sistema. En este caso, el usuario es "codespace".
 
 Conocer esta información es útil cuando se administra un servidor porque permite identificar el entorno de trabajo, verificar configuraciones y solucionar problemas técnicos de forma más eficiente.
