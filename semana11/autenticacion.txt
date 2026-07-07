@@ -1,0 +1,6 @@
+En una plataforma comunitaria, el login funciona como una puerta de entrada segura, porque permite reconocer qué usuario está ingresando al sistema y qué acciones puede realizar. 
+Esto es importante porque no todos deben tener el mismo nivel de acceso: un ciudadano podría consultar o apoyar una causa, mientras que un coordinador o administrador podría revisar, actualizar estados o hacer seguimiento.
+Las rutas protegidas son necesarias porque dentro de la plataforma puede existir información interna sobre reportes, causas comunitarias, apoyos registrados o decisiones del equipo de veeduría. 
+Si cualquier persona pudiera entrar sin control, se correría el riesgo de modificar datos, eliminar información o usarla de forma indebida.
+Por eso, la autenticación ayuda a cuidar la privacidad y la trazabilidad del sistema. No debería exponerse públicamente información como contraseñas, tokens, claves de API, documentos de identidad, teléfonos, direcciones, 
+correos personales ni detalles sensibles de los casos comunitarios.

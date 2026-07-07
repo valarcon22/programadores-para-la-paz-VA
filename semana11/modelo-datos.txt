@@ -1,0 +1,15 @@
+Entidad: Causa
+
+- id:001
+- titulo: Falta de alumbrado público en el parque principal
+- descripcion: La comunidad reporta que varias lámparas del parque principal no funcionan, lo que genera inseguridad en horas de la noche.
+- fecha: 2026-07-06
+
+Entidad: Apoyo
+
+- id: 001
+- causa_id:001
+- usuario: Camila Torres
+- fecha: 2026-07-06
+- tipo_apoyo: Reporte ciudadano
+- estado: Pendiente
