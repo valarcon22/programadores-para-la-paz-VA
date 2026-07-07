@@ -1,0 +1,19 @@
+¿Qué evento activa el flujo?
+
+El flujo se activa cuando se registra o simula un nuevo reporte comunitario en el sistema de práctica.
+
+¿Qué mensaje se enviaría a Telegram?
+
+El mensaje enviado a Telegram fue:
+
+“Nuevo reporte comunitario recibido. Revisar el sistema para hacer seguimiento.”
+
+¿Qué información no debería enviarse por seguridad?
+
+No se deben enviar nombres completos, documentos de identidad, direcciones, teléfonos, correos personales, claves, tokens de Telegram, datos de salud, información familiar ni detalles sensibles del caso.
+
+Para comprobar el funcionamiento, se creó un bot de Telegram llamado Veeduria Semana 10. Luego se inició el bot, se obtuvo el chat_id y se realizó una prueba de envío de mensaje mediante la API de Telegram.
+
+El mensaje llegó correctamente al chat del bot, lo que permite comprobar que Telegram puede usarse como canal de notificación para alertar al equipo de veeduría sobre un nuevo reporte, siempre que se comparta únicamente información general y no sensible.
+
+

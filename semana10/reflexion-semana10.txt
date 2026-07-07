@@ -1,0 +1,12 @@
+Pregunta 10 — Reflexión final
+
+Las metodologías ágiles ayudan a organizar mejor una comunidad porque permiten dividir el trabajo en tareas claras, priorizadas y revisables.
+El backlog permite identificar qué actividades son más importantes y cuáles deben realizarse primero, evitando la improvisación.
+Las iteraciones ayudan a avanzar paso a paso, revisar resultados reales y corregir errores antes de continuar.
+Esto es importante en procesos de participación ciudadana, porque las necesidades de la comunidad pueden cambiar durante el desarrollo del proyecto.
+La automatización con n8n y Telegram puede apoyar la coordinación mediante alertas, recordatorios y mensajes de seguimiento no sensibles.
+En la práctica realizada, el bot de Telegram permitió comprobar que sí es posible enviar una notificación general sobre un nuevo reporte comunitario.
+Sin embargo, estas herramientas deben usarse con responsabilidad y con revisión humana.
+No se deben compartir tokens, claves, datos personales ni información sensible.
+La tecnología debe apoyar la organización comunitaria, pero no reemplazar el criterio, la ética ni el trabajo colaborativo.
+Por eso, una solución tecnológica útil necesita código, planificación, seguimiento, responsabilidad y cuidado de la información.
