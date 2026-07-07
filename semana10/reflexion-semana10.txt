@@ -1,5 +1,3 @@
-Pregunta 10 — Reflexión final
-
 Las metodologías ágiles ayudan a organizar mejor una comunidad porque permiten dividir el trabajo en tareas claras, priorizadas y revisables.
 El backlog permite identificar qué actividades son más importantes y cuáles deben realizarse primero, evitando la improvisación.
 Las iteraciones ayudan a avanzar paso a paso, revisar resultados reales y corregir errores antes de continuar.
