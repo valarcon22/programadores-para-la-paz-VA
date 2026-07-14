@@ -1,0 +1,8 @@
+El principal aprendizaje de este proceso fue comprender que la tecnología, por sí misma, no genera transformación social; 
+su verdadero valor surge cuando logra interpretar una realidad, organizar una necesidad colectiva y convertirse en un instrumento para la acción ciudadana. 
+La experiencia de construir Petición en 3 Clics permitió reconocer que detrás de una solución digital no solamente existen estructuras de código y datos, 
+sino decisiones que afectan la confianza, la participación y la capacidad de las comunidades para hacer visibles sus demandas. 
+Este ejercicio transformó la manera de entender el desarrollo tecnológico, pasando de una visión centrada en la funcionalidad del sistema 
+hacia una perspectiva donde la ética, la seguridad de la información y el propósito social son elementos fundamentales. 
+En este sentido, la tecnología puede convertirse en un puente entre ciudadanía e instituciones, siempre que sea diseñada con responsabilidad,
+Sensibilidad frente al contexto y una verdadera intención de fortalecer la democracia.

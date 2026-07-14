@@ -1,0 +1,33 @@
+Entidad: Causa
+
+id
+titulo
+descripcion
+fecha
+
+La entidad Causa sirve para registrar y organizar la información relacionada con una necesidad o problemática presentada por la comunidad, permitiendo documentarla adecuadamente para su posterior presentación ante las entidades competentes.
+
+Entidad: Apoyo
+
+id
+causa_id
+nombre
+fecha
+
+La entidad Apoyo sirve para registrar el respaldo ciudadano otorgado a una causa, evidenciando el interés colectivo y fortaleciendo el sustento de la petición presentada.
+
+
+CAUSA
+
+id: 002
+titulo: Reparación de la vía principal del barrio El Progreso.
+descripcion: La comunidad solicita la reparación de la vía principal debido al deterioro que dificulta la movilidad de peatones y vehículos.
+fecha: 14 de julio de 2026.
+
+
+APOYO
+
+id: 002
+causa_id: 002
+nombre: Juan Pérez Rodríguez.
+fecha: 14 de julio de 2026.

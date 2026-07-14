@@ -1,0 +1,7 @@
+1. Una comunidad identifica una necesidad o problemática que requiere ser presentada ante las instituciones competentes.
+2. La causa es registrada en la plataforma con la información estrictamente necesaria para su adecuada documentación.
+3. Los ciudadanos pueden manifestar su apoyo a la causa de manera segura y responsable.
+4. El sistema organiza y contabiliza los apoyos recibidos para evidenciar el respaldo de la comunidad.
+5. La información registrada es utilizada para generar un documento formal que sustenta la petición ciudadana.
+6. El sistema envía notificaciones automáticas sobre los eventos relevantes del proceso, respetando la privacidad de los usuarios.
+7. La comunidad puede realizar seguimiento a la petición y verificar las actuaciones realizadas por la plataforma.

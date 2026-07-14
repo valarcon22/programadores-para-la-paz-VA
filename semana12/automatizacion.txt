@@ -1,0 +1,19 @@
+AUTOMATIZACIÓN DEL SISTEMA PETICIÓN EN 3 CLICS
+
+Evento que activa la automatización:
+
+La automatización se activa cuando un ciudadano registra una nueva causa dentro de la plataforma Petición en 3 Clics. Cuando el sistema identifica un nuevo registro, procesa la información almacenada y genera una respuesta automática de confirmación.
+
+Información recibida por el sistema:
+
+Al registrarse una causa, el sistema recibe datos básicos como el título de la petición, la fecha de creación y el estado del proceso. Además, identifica los apoyos ciudadanos asociados a la causa para realizar seguimiento a la participación de la comunidad.
+
+Mensaje generado por la automatización:
+
+"Una nueva causa ciudadana ha sido registrada correctamente."
+
+La notificación permite informar que la petición fue creada exitosamente y que continúa su proceso de organización y seguimiento.
+
+Información que no debe enviarse por seguridad:
+
+Aunque el sistema puede manejar información de los participantes, la automatización no debe compartir datos personales o sensibles como números de identificación, teléfonos, direcciones, documentos privados o cualquier información que pueda afectar la privacidad de los ciudadanos.
